@@ -7,7 +7,7 @@ Teaching portfolio and selected educational materials in electrical and computer
 ### University of Missouri–Kansas City
 
 - [**Logic Design**](./Logic-Design) — Graduate Instructor
-- **Logic Design Lab** — Graduate Lab Instructor
+- [**Logic Design Lab**](./Logic-Design-Lab) — Graduate Lab Instructor
 - **Introduction to Computer Design Lab** — Graduate Lab Instructor
 
 ### Previous Teaching
