@@ -8,7 +8,7 @@ Teaching portfolio and selected educational materials in electrical and computer
 
 - [**Logic Design**](./Logic-Design) — Graduate Instructor
 - [**Logic Design Lab**](./Logic-Design-Lab) — Graduate Lab Instructor
-- **Introduction to Computer Design Lab** — Graduate Lab Instructor
+- [**Introduction to Computer Design Lab**](./Introduction-to-Computer-Design-Lab) — Graduate Lab Instructor
 
 ### Previous Teaching
 
