@@ -13,9 +13,9 @@ Teaching portfolio and selected educational materials in electrical and computer
 ### Previous Teaching
 
 - [**Electronics**](./Electronics) — Lecturer, Hamdard University Bangladesh
-- [**Microprocessor and Interfacing**](./Microprocessor-and-Interfacing) — Lecturer, University of Global Village Barishal
-- **Semiconductor Devices**
-- **VLSI Technology**
+- [**Microprocessor and Interfacing**](./Microprocessor-and-Interfacing) — Lecturer, Hamdard University Bangladesh
+- [**Semiconductor Devices**](./Semiconductor-Devices) — Lecturer, University of Global Village, Barishal
+- [**VLSI Technology**](./VLSI-Technology) — Lecturer, Hamdard University Bangladesh
 
 ## Teaching Materials
 
