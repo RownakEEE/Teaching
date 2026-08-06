@@ -12,7 +12,7 @@ Teaching portfolio and selected educational materials in electrical and computer
 
 ### Previous Teaching
 
-- **Electronics**
+- [**Electronics**](./Electronics) — Lecturer, Hamdard University Bangladesh
 - **Microprocessor and Interfacing**
 - **Semiconductor Devices**
 - **VLSI Technology**
