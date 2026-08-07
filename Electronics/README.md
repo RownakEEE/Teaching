@@ -3,9 +3,9 @@
 **Role:** Lecturer  
 **Institution:** Hamdard University Bangladesh
 
-## Course Overview
+Undergraduate course covering the fundamentals of **electronic devices, circuits, and their applications** in electrical and electronic systems.
 
-Undergraduate course covering fundamental concepts of electronic devices, circuits, and their applications in electrical and electronic systems.
+---
 
 ## Topics Covered
 
@@ -19,6 +19,16 @@ Undergraduate course covering fundamental concepts of electronic devices, circui
 - Basic Electronic Circuit Analysis
 - Electronic Circuit Applications
 
+---
+
 ## Course Materials
 
-Lecture materials, assessments, and solutions are maintained privately and may be shared upon request.
+Lecture materials and supplementary course resources are maintained in the private teaching-materials repository.
+
+[**Electronics Materials (Private) →**](https://github.com/RownakEEE/Teaching-Materials/tree/main/Electronics)
+
+---
+
+## Teaching Resources
+
+Selected instructional resources may be made publicly available when appropriate.
