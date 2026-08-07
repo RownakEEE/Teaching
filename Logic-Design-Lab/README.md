@@ -3,9 +3,9 @@
 **Role:** Graduate Lab Instructor  
 **Institution:** University of Missouri–Kansas City
 
-## Course Overview
+Laboratory course providing hands-on experience with **fundamental digital logic design, hardware implementation, testing, and verification**.
 
-Laboratory course providing hands-on experience with fundamental digital logic design concepts, implementation, and verification.
+---
 
 ## Topics Covered
 
@@ -19,6 +19,16 @@ Laboratory course providing hands-on experience with fundamental digital logic d
 - Digital Circuit Design and Verification
 - Hardware Implementation and Testing
 
+---
+
 ## Course Materials
 
-Lecture and laboratory materials, assessments, and solutions are maintained privately and may be shared upon request.
+Lecture and supplementary laboratory resources are maintained in the private teaching-materials repository.
+
+[**Logic Design Lab Materials (Private) →**](https://github.com/RownakEEE/Teaching-Materials/tree/main/Logic-Design-Lab)
+
+---
+
+## Teaching Resources
+
+Selected instructional resources may be made publicly available when appropriate.
