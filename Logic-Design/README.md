@@ -3,9 +3,9 @@
 **Role:** Graduate Instructor  
 **Institution:** University of Missouri–Kansas City
 
-## Course Overview
+Undergraduate course covering the fundamentals of **digital logic design and digital systems**, with emphasis on combinational and sequential circuit design, analysis, and implementation.
 
-Undergraduate course covering the fundamentals of digital logic design and digital systems.
+---
 
 ## Topics Covered
 
@@ -19,6 +19,16 @@ Undergraduate course covering the fundamentals of digital logic design and digit
 - Registers and Counters
 - Finite-State Machines
 
+---
+
 ## Course Materials
 
-Lecture materials, assessments, and solutions are maintained privately.
+Lecture materials and supplementary course resources are maintained in the private teaching-materials repository.
+
+[**Logic Design Materials (Private) →**](https://github.com/RownakEEE/Teaching-Materials)
+
+---
+
+## Teaching Resources
+
+Selected instructional resources may be made publicly available when appropriate.
