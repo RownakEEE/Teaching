@@ -3,9 +3,9 @@
 **Role:** Lecturer  
 **Institution:** Hamdard University Bangladesh
 
-## Course Overview
+Undergraduate course introducing **VLSI technology, MOS devices, CMOS circuits, fabrication processes, and fundamental integrated-circuit design concepts**.
 
-Undergraduate course introducing VLSI technology, MOS devices, CMOS circuits, fabrication processes, and fundamental concepts of integrated circuit design.
+---
 
 ## Topics Covered
 
@@ -20,6 +20,16 @@ Undergraduate course introducing VLSI technology, MOS devices, CMOS circuits, fa
 - Layout and Design Concepts
 - Introduction to VLSI Design Flow
 
+---
+
 ## Course Materials
 
-Lecture materials, assessments, and solutions are maintained privately and may be shared upon request.
+Lecture materials and supplementary course resources are maintained in the private teaching-materials repository.
+
+[**VLSI Technology Materials (Private) →**](https://github.com/RownakEEE/Teaching-Materials/tree/main/VLSI-Technology)
+
+---
+
+## Teaching Resources
+
+Selected instructional resources may be made publicly available when appropriate.
