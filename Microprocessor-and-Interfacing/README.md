@@ -3,9 +3,9 @@
 **Role:** Lecturer  
 **Institution:** University of Global Village Barishal
 
-## Course Overview
+Undergraduate course covering **microprocessor architecture, assembly-level programming, memory organization, and peripheral interfacing** for microprocessor-based system design.
 
-Undergraduate course covering microprocessor architecture, assembly-level programming, memory organization, and interfacing with peripheral devices.
+---
 
 ## Topics Covered
 
@@ -20,6 +20,16 @@ Undergraduate course covering microprocessor architecture, assembly-level progra
 - Peripheral Interfacing
 - Basic Microprocessor-Based System Design
 
+---
+
 ## Course Materials
 
-Lecture materials, assessments, and solutions are maintained privately and may be shared upon request.
+Lecture materials and supplementary course resources are maintained in the private teaching-materials repository.
+
+[**Microprocessor and Interfacing Materials (Private) →**](https://github.com/RownakEEE/Teaching-Materials/tree/main/Microprocessor-and-Interfacing)
+
+---
+
+## Teaching Resources
+
+Selected instructional resources may be made publicly available when appropriate.
